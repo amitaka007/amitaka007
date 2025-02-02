@@ -55,9 +55,8 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></td>
   </tr>
 </table>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
-  </div>
+
